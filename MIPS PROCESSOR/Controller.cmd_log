@@ -1,0 +1,22 @@
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Controller.ngc Controller.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Controller_map.ncd Controller.ngd Controller.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Controller_map.ncd Controller.ngd Controller.pcf 
+xst -intstyle ise -ifn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.xst" -ofn "C:/Users/Ashry/Downloads/Phase_1_CO/dqq/Controller.syr" 

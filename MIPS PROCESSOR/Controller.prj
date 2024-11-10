@@ -1,0 +1,4 @@
+vhdl work "Projpack.vhd"
+vhdl work "Maindec.vhd"
+vhdl work "Aludec.vhd"
+vhdl work "Controller.vhd"
