@@ -1,0 +1,5 @@
+vhdl work "Projpack.vhd"
+vhdl work "MUX32x1.vhd"
+vhdl work "flopr.vhd"
+vhdl work "Decoder5x32.vhd"
+vhdl work "RegisterFile.vhd"
